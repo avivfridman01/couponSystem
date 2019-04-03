@@ -1,0 +1,6 @@
+package coupon.beans;
+
+public enum CouponType {
+RESTURANTS , ELECTRICITY , FOOD , HEALTH , SPORTS , CAMPING
+, TRAVELLING , SPA , ATTRACTIONS , ENTERTAINMENT
+}
